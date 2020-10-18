@@ -1,0 +1,65 @@
+{
+  "id": "2124054",
+  "name": "taobao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5849184",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8348168",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "8949037",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "9626870",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "11982657",
+      "name": "Home, homepage, menu",
+      "font_class": "Homehomepagemenu",
+      "unicode": "e9ce",
+      "unicode_decimal": 59854
+    },
+    {
+      "icon_id": "11982742",
+      "name": "Home, homepage, menu",
+      "font_class": "Homehomepagemenu1",
+      "unicode": "e9db",
+      "unicode_decimal": 59867
+    },
+    {
+      "icon_id": "565981",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "2076282",
+      "name": " 订单",
+      "font_class": "dingdan1",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    }
+  ]
+}
